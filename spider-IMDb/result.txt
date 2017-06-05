@@ -1,0 +1,250 @@
+{"score": "9.2", "year": "1994", "actor": "Frank Darabont (dir.), Tim Robbins, Morgan Freeman", "rank": 1, "title": "The Shawshank Redemption"}
+{"score": "9.2", "year": "1972", "actor": "Francis Ford Coppola (dir.), Marlon Brando, Al Pacino", "rank": 2, "title": "The Godfather"}
+{"score": "9.0", "year": "1974", "actor": "Francis Ford Coppola (dir.), Al Pacino, Robert De Niro", "rank": 3, "title": "The Godfather: Part II"}
+{"score": "8.9", "year": "2008", "actor": "Christopher Nolan (dir.), Christian Bale, Heath Ledger", "rank": 4, "title": "The Dark Knight"}
+{"score": "8.9", "year": "1957", "actor": "Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb", "rank": 5, "title": "12 Angry Men"}
+{"score": "8.9", "year": "1993", "actor": "Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes", "rank": 6, "title": "Schindler's List"}
+{"score": "8.9", "year": "1994", "actor": "Quentin Tarantino (dir.), John Travolta, Uma Thurman", "rank": 7, "title": "Pulp Fiction"}
+{"score": "8.9", "year": "2003", "actor": "Peter Jackson (dir.), Elijah Wood, Viggo Mortensen", "rank": 8, "title": "The Lord of the Rings: The Return of the King"}
+{"score": "8.8", "year": "1966", "actor": "Sergio Leone (dir.), Clint Eastwood, Eli Wallach", "rank": 9, "title": "Il buono, il brutto, il cattivo"}
+{"score": "8.8", "year": "1999", "actor": "David Fincher (dir.), Brad Pitt, Edward Norton", "rank": 10, "title": "Fight Club"}
+{"score": "8.8", "year": "2001", "actor": "Peter Jackson (dir.), Elijah Wood, Ian McKellen", "rank": 11, "title": "The Lord of the Rings: The Fellowship of the Ring"}
+{"score": "8.7", "year": "1980", "actor": "Irvin Kershner (dir.), Mark Hamill, Harrison Ford", "rank": 12, "title": "Star Wars: Episode V - The Empire Strikes Back"}
+{"score": "8.7", "year": "1994", "actor": "Robert Zemeckis (dir.), Tom Hanks, Robin Wright", "rank": 13, "title": "Forrest Gump"}
+{"score": "8.7", "year": "2010", "actor": "Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt", "rank": 14, "title": "Inception"}
+{"score": "8.7", "year": "2002", "actor": "Peter Jackson (dir.), Elijah Wood, Ian McKellen", "rank": 15, "title": "The Lord of the Rings: The Two Towers"}
+{"score": "8.7", "year": "1975", "actor": "Milos Forman (dir.), Jack Nicholson, Louise Fletcher", "rank": 16, "title": "One Flew Over the Cuckoo's Nest"}
+{"score": "8.7", "year": "1990", "actor": "Martin Scorsese (dir.), Robert De Niro, Ray Liotta", "rank": 17, "title": "Goodfellas"}
+{"score": "8.7", "year": "1999", "actor": "Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne", "rank": 18, "title": "The Matrix"}
+{"score": "8.6", "year": "1954", "actor": "Akira Kurosawa (dir.), Toshir\u00f4 Mifune, Takashi Shimura", "rank": 19, "title": "Shichinin no samurai"}
+{"score": "8.6", "year": "1977", "actor": "George Lucas (dir.), Mark Hamill, Harrison Ford", "rank": 20, "title": "Star Wars"}
+{"score": "8.6", "year": "2002", "actor": "Fernando Meirelles (dir.), Alexandre Rodrigues, Matheus Nachtergaele", "rank": 21, "title": "Cidade de Deus"}
+{"score": "8.6", "year": "1995", "actor": "David Fincher (dir.), Morgan Freeman, Brad Pitt", "rank": 22, "title": "Se7en"}
+{"score": "8.6", "year": "1991", "actor": "Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins", "rank": 23, "title": "The Silence of the Lambs"}
+{"score": "8.6", "year": "1946", "actor": "Frank Capra (dir.), James Stewart, Donna Reed", "rank": 24, "title": "It's a Wonderful Life"}
+{"score": "8.6", "year": "1997", "actor": "Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi", "rank": 25, "title": "La vita \u00e8 bella"}
+{"score": "8.6", "year": "1995", "actor": "Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne", "rank": 26, "title": "The Usual Suspects"}
+{"score": "8.5", "year": "1994", "actor": "Luc Besson (dir.), Jean Reno, Gary Oldman", "rank": 27, "title": "L\u00e9on"}
+{"score": "8.5", "year": "2001", "actor": "Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette", "rank": 28, "title": "Sen to Chihiro no kamikakushi"}
+{"score": "8.5", "year": "1998", "actor": "Steven Spielberg (dir.), Tom Hanks, Matt Damon", "rank": 29, "title": "Saving Private Ryan"}
+{"score": "8.5", "year": "1968", "actor": "Sergio Leone (dir.), Henry Fonda, Charles Bronson", "rank": 30, "title": "Once Upon a Time in the West"}
+{"score": "8.5", "year": "1998", "actor": "Tony Kaye (dir.), Edward Norton, Edward Furlong", "rank": 31, "title": "American History X"}
+{"score": "8.5", "year": "2014", "actor": "Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway", "rank": 32, "title": "Interstellar"}
+{"score": "8.5", "year": "1942", "actor": "Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman", "rank": 33, "title": "Casablanca"}
+{"score": "8.5", "year": "1931", "actor": "Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill", "rank": 34, "title": "City Lights"}
+{"score": "8.5", "year": "1960", "actor": "Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh", "rank": 35, "title": "Psycho"}
+{"score": "8.5", "year": "1999", "actor": "Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan", "rank": 36, "title": "The Green Mile"}
+{"score": "8.5", "year": "2011", "actor": "Olivier Nakache (dir.), Fran\u00e7ois Cluzet, Omar Sy", "rank": 37, "title": "The Intouchables"}
+{"score": "8.5", "year": "1936", "actor": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard", "rank": 38, "title": "Modern Times"}
+{"score": "8.5", "year": "1981", "actor": "Steven Spielberg (dir.), Harrison Ford, Karen Allen", "rank": 39, "title": "Raiders of the Lost Ark"}
+{"score": "8.5", "year": "1954", "actor": "Alfred Hitchcock (dir.), James Stewart, Grace Kelly", "rank": 40, "title": "Rear Window"}
+{"score": "8.5", "year": "2002", "actor": "Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann", "rank": 41, "title": "The Pianist"}
+{"score": "8.5", "year": "2006", "actor": "Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon", "rank": 42, "title": "The Departed"}
+{"score": "8.5", "year": "1991", "actor": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton", "rank": 43, "title": "Terminator 2: Judgment Day"}
+{"score": "8.5", "year": "1985", "actor": "Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd", "rank": 44, "title": "Back to the Future"}
+{"score": "8.5", "year": "2014", "actor": "Damien Chazelle (dir.), Miles Teller, J.K. Simmons", "rank": 45, "title": "Whiplash"}
+{"score": "8.5", "year": "2000", "actor": "Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix", "rank": 46, "title": "Gladiator"}
+{"score": "8.5", "year": "2000", "actor": "Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss", "rank": 47, "title": "Memento"}
+{"score": "8.5", "year": "2006", "actor": "Christopher Nolan (dir.), Christian Bale, Hugh Jackman", "rank": 48, "title": "The Prestige"}
+{"score": "8.5", "year": "1994", "actor": "Roger Allers (dir.), Matthew Broderick, Jeremy Irons", "rank": 49, "title": "The Lion King"}
+{"score": "8.5", "year": "1979", "actor": "Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando", "rank": 50, "title": "Apocalypse Now"}
+{"score": "8.4", "year": "1979", "actor": "Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt", "rank": 51, "title": "Alien"}
+{"score": "8.4", "year": "1950", "actor": "Billy Wilder (dir.), William Holden, Gloria Swanson", "rank": 52, "title": "Sunset Blvd."}
+{"score": "8.4", "year": "1964", "actor": "Stanley Kubrick (dir.), Peter Sellers, George C. Scott", "rank": 53, "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"}
+{"score": "8.4", "year": "1940", "actor": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard", "rank": 54, "title": "The Great Dictator"}
+{"score": "8.4", "year": "1988", "actor": "Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale", "rank": 55, "title": "Nuovo Cinema Paradiso"}
+{"score": "8.4", "year": "2006", "actor": "Florian Henckel von Donnersmarck (dir.), Ulrich M\u00fche, Martina Gedeck", "rank": 56, "title": "The Lives of Others"}
+{"score": "8.4", "year": "1988", "actor": "Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi", "rank": 57, "title": "Hotaru no haka"}
+{"score": "8.4", "year": "1957", "actor": "Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker", "rank": 58, "title": "Paths of Glory"}
+{"score": "8.4", "year": "2012", "actor": "Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz", "rank": 59, "title": "Django Unchained"}
+{"score": "8.4", "year": "1980", "actor": "Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall", "rank": 60, "title": "The Shining"}
+{"score": "8.4", "year": "2008", "actor": "Andrew Stanton (dir.), Benjamin A. Burtt, Elissa Knight", "rank": 61, "title": "WALL\u00b7E"}
+{"score": "8.4", "year": "1999", "actor": "Sam Mendes (dir.), Kevin Spacey, Annette Bening", "rank": 62, "title": "American Beauty"}
+{"score": "8.4", "year": "2012", "actor": "Christopher Nolan (dir.), Christian Bale, Tom Hardy", "rank": 63, "title": "The Dark Knight Rises"}
+{"score": "8.4", "year": "1997", "actor": "Hayao Miyazaki (dir.), Y\u00f4ji Matsuda, Yuriko Ishida", "rank": 64, "title": "Mononoke-hime"}
+{"score": "8.4", "year": "1986", "actor": "James Cameron (dir.), Sigourney Weaver, Michael Biehn", "rank": 65, "title": "Aliens"}
+{"score": "8.4", "year": "2003", "actor": "Chan-wook Park (dir.), Min-sik Choi, Ji-tae Yu", "rank": 66, "title": "Oldeuboi"}
+{"score": "8.4", "year": "1984", "actor": "Sergio Leone (dir.), Robert De Niro, James Woods", "rank": 67, "title": "Once Upon a Time in America"}
+{"score": "8.3", "year": "1957", "actor": "Billy Wilder (dir.), Tyrone Power, Marlene Dietrich", "rank": 68, "title": "Witness for the Prosecution"}
+{"score": "8.3", "year": "1981", "actor": "Wolfgang Petersen (dir.), J\u00fcrgen Prochnow, Herbert Gr\u00f6nemeyer", "rank": 69, "title": "Das Boot"}
+{"score": "8.3", "year": "1941", "actor": "Orson Welles (dir.), Orson Welles, Joseph Cotten", "rank": 70, "title": "Citizen Kane"}
+{"score": "8.3", "year": "1958", "actor": "Alfred Hitchcock (dir.), James Stewart, Kim Novak", "rank": 71, "title": "Vertigo"}
+{"score": "8.3", "year": "1959", "actor": "Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint", "rank": 72, "title": "North by Northwest"}
+{"score": "8.3", "year": "1983", "actor": "Richard Marquand (dir.), Mark Hamill, Harrison Ford", "rank": 73, "title": "Star Wars: Episode VI - Return of the Jedi"}
+{"score": "8.3", "year": "1992", "actor": "Quentin Tarantino (dir.), Harvey Keitel, Tim Roth", "rank": 74, "title": "Reservoir Dogs"}
+{"score": "8.3", "year": "1995", "actor": "Mel Gibson (dir.), Mel Gibson, Sophie Marceau", "rank": 75, "title": "Braveheart"}
+{"score": "8.3", "year": "1931", "actor": "Fritz Lang (dir.), Peter Lorre, Ellen Widmann", "rank": 76, "title": "M"}
+{"score": "8.3", "year": "2000", "actor": "Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto", "rank": 77, "title": "Requiem for a Dream"}
+{"score": "8.3", "year": "2001", "actor": "Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz", "rank": 78, "title": "Am\u00e9lie"}
+{"score": "8.3", "year": "1971", "actor": "Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee", "rank": 79, "title": "A Clockwork Orange"}
+{"score": "8.3", "year": "2007", "actor": "Aamir Khan (dir.), Darsheel Safary, Aamir Khan", "rank": 80, "title": "Taare Zameen Par"}
+{"score": "8.3", "year": "1976", "actor": "Martin Scorsese (dir.), Robert De Niro, Jodie Foster", "rank": 81, "title": "Taxi Driver"}
+{"score": "8.3", "year": "1962", "actor": "David Lean (dir.), Peter O'Toole, Alec Guinness", "rank": 82, "title": "Lawrence of Arabia"}
+{"score": "8.3", "year": "1944", "actor": "Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck", "rank": 83, "title": "Double Indemnity"}
+{"score": "8.3", "year": "2004", "actor": "Michel Gondry (dir.), Jim Carrey, Kate Winslet", "rank": 84, "title": "Eternal Sunshine of the Spotless Mind"}
+{"score": "8.3", "year": "1984", "actor": "Milos Forman (dir.), F. Murray Abraham, Tom Hulce", "rank": 85, "title": "Amadeus"}
+{"score": "8.3", "year": "1962", "actor": "Robert Mulligan (dir.), Gregory Peck, John Megna", "rank": 86, "title": "To Kill a Mockingbird"}
+{"score": "8.3", "year": "2017", "actor": "James Mangold (dir.), Hugh Jackman, Patrick Stewart", "rank": 87, "title": "Logan"}
+{"score": "8.3", "year": "2010", "actor": "Lee Unkrich (dir.), Tom Hanks, Tim Allen", "rank": 88, "title": "Toy Story 3"}
+{"score": "8.3", "year": "1987", "actor": "Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey", "rank": 89, "title": "Full Metal Jacket"}
+{"score": "8.3", "year": "2016", "actor": "Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar", "rank": 90, "title": "Dangal"}
+{"score": "8.3", "year": "1968", "actor": "Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood", "rank": 91, "title": "2001: A Space Odyssey"}
+{"score": "8.3", "year": "1973", "actor": "George Roy Hill (dir.), Paul Newman, Robert Redford", "rank": 92, "title": "The Sting"}
+{"score": "8.3", "year": "1952", "actor": "Stanley Donen (dir.), Gene Kelly, Donald O'Connor", "rank": 93, "title": "Singin' in the Rain"}
+{"score": "8.3", "year": "1995", "actor": "John Lasseter (dir.), Tom Hanks, Tim Allen", "rank": 94, "title": "Toy Story"}
+{"score": "8.3", "year": "1948", "actor": "Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola", "rank": 95, "title": "Ladri di biciclette"}
+{"score": "8.3", "year": "1921", "actor": "Charles Chaplin (dir.), Charles Chaplin, Edna Purviance", "rank": 96, "title": "The Kid"}
+{"score": "8.3", "year": "2009", "actor": "Quentin Tarantino (dir.), Brad Pitt, Diane Kruger", "rank": 97, "title": "Inglourious Basterds"}
+{"score": "8.3", "year": "2000", "actor": "Guy Ritchie (dir.), Jason Statham, Brad Pitt", "rank": 98, "title": "Snatch"}
+{"score": "8.3", "year": "2009", "actor": "Rajkumar Hirani (dir.), Aamir Khan, Madhavan", "rank": 99, "title": "3 Idiots"}
+{"score": "8.3", "year": "1975", "actor": "Terry Gilliam (dir.), Graham Chapman, John Cleese", "rank": 100, "title": "Monty Python and the Holy Grail"}
+{"score": "8.3", "year": "2005", "actor": "\u00c7agan Irmak (dir.), Resit Kurt, Fikret Kuskan", "rank": 101, "title": "Babam ve Oglum"}
+{"score": "8.3", "year": "1997", "actor": "Curtis Hanson (dir.), Kevin Spacey, Russell Crowe", "rank": 102, "title": "L.A. Confidential"}
+{"score": "8.3", "year": "2016", "actor": "Makoto Shinkai (dir.), Ry\u00fbnosuke Kamiki, Mone Kamishiraishi", "rank": 103, "title": "Kimi no na wa"}
+{"score": "8.3", "year": "1965", "actor": "Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef", "rank": 104, "title": "Per qualche dollaro in pi\u00f9"}
+{"score": "8.3", "year": "1983", "actor": "Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer", "rank": 105, "title": "Scarface"}
+{"score": "8.3", "year": "2012", "actor": "Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen", "rank": 106, "title": "Jagten"}
+{"score": "8.3", "year": "1997", "actor": "Gus Van Sant (dir.), Robin Williams, Matt Damon", "rank": 107, "title": "Good Will Hunting"}
+{"score": "8.2", "year": "1960", "actor": "Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine", "rank": 108, "title": "The Apartment"}
+{"score": "8.2", "year": "1950", "actor": "Akira Kurosawa (dir.), Toshir\u00f4 Mifune, Machiko Ky\u00f4", "rank": 109, "title": "Rash\u00f4mon"}
+{"score": "8.2", "year": "2011", "actor": "Asghar Farhadi (dir.), Peyman Moaadi, Leila Hatami", "rank": 110, "title": "Jodaeiye Nader az Simin"}
+{"score": "8.2", "year": "1927", "actor": "Fritz Lang (dir.), Brigitte Helm, Alfred Abel", "rank": 111, "title": "Metropolis"}
+{"score": "8.2", "year": "1989", "actor": "Steven Spielberg (dir.), Harrison Ford, Sean Connery", "rank": 112, "title": "Indiana Jones and the Last Crusade"}
+{"score": "8.2", "year": "2016", "actor": "Damien Chazelle (dir.), Ryan Gosling, Emma Stone", "rank": 113, "title": "La La Land"}
+{"score": "8.2", "year": "1950", "actor": "Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter", "rank": 114, "title": "All About Eve"}
+{"score": "8.2", "year": "1961", "actor": "Akira Kurosawa (dir.), Toshir\u00f4 Mifune, Eijir\u00f4 T\u00f4no", "rank": 115, "title": "Y\u00f4jinb\u00f4"}
+{"score": "8.2", "year": "2005", "actor": "Christopher Nolan (dir.), Christian Bale, Michael Caine", "rank": 116, "title": "Batman Begins"}
+{"score": "8.2", "year": "2009", "actor": "Pete Docter (dir.), Edward Asner, Jordan Nagai", "rank": 117, "title": "Up"}
+{"score": "8.2", "year": "1959", "actor": "Billy Wilder (dir.), Marilyn Monroe, Tony Curtis", "rank": 118, "title": "Some Like It Hot"}
+{"score": "8.2", "year": "1948", "actor": "John Huston (dir.), Humphrey Bogart, Walter Huston", "rank": 119, "title": "The Treasure of the Sierra Madre"}
+{"score": "8.2", "year": "1992", "actor": "Clint Eastwood (dir.), Clint Eastwood, Gene Hackman", "rank": 120, "title": "Unforgiven"}
+{"score": "8.2", "year": "2004", "actor": "Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara", "rank": 121, "title": "Der Untergang"}
+{"score": "8.2", "year": "1980", "actor": "Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty", "rank": 122, "title": "Raging Bull"}
+{"score": "8.2", "year": "1988", "actor": "John McTiernan (dir.), Bruce Willis, Alan Rickman", "rank": 123, "title": "Die Hard"}
+{"score": "8.2", "year": "1949", "actor": "Carol Reed (dir.), Orson Welles, Joseph Cotten", "rank": 124, "title": "The Third Man"}
+{"score": "8.2", "year": "1997", "actor": "Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian", "rank": 125, "title": "Bacheha-Ye aseman"}
+{"score": "8.2", "year": "1995", "actor": "Michael Mann (dir.), Al Pacino, Robert De Niro", "rank": 126, "title": "Heat"}
+{"score": "8.2", "year": "1963", "actor": "John Sturges (dir.), Steve McQueen, James Garner", "rank": 127, "title": "The Great Escape"}
+{"score": "8.2", "year": "1974", "actor": "Roman Polanski (dir.), Jack Nicholson, Faye Dunaway", "rank": 128, "title": "Chinatown"}
+{"score": "8.2", "year": "1952", "actor": "Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko", "rank": 129, "title": "Ikiru"}
+{"score": "8.2", "year": "2006", "actor": "Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil", "rank": 130, "title": "Pan's Labyrinth"}
+{"score": "8.2", "year": "2015", "actor": "Pete Docter (dir.), Amy Poehler, Bill Hader", "rank": 131, "title": "Inside Out"}
+{"score": "8.2", "year": "1988", "actor": "Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka", "rank": 132, "title": "Tonari no Totoro"}
+{"score": "8.2", "year": "1985", "actor": "Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao", "rank": 133, "title": "Ran"}
+{"score": "8.2", "year": "1954", "actor": "Elia Kazan (dir.), Marlon Brando, Karl Malden", "rank": 134, "title": "On the Waterfront"}
+{"score": "8.2", "year": "1925", "actor": "Charles Chaplin (dir.), Charles Chaplin, Mack Swain", "rank": 135, "title": "The Gold Rush"}
+{"score": "8.2", "year": "2009", "actor": "Juan Jos\u00e9 Campanella (dir.), Ricardo Dar\u00edn, Soledad Villamil", "rank": 136, "title": "El secreto de sus ojos"}
+{"score": "8.2", "year": "2015", "actor": "Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay", "rank": 137, "title": "Room"}
+{"score": "8.2", "year": "1957", "actor": "David Lean (dir.), William Holden, Alec Guinness", "rank": 138, "title": "The Bridge on the River Kwai"}
+{"score": "8.2", "year": "1982", "actor": "Ridley Scott (dir.), Harrison Ford, Rutger Hauer", "rank": 139, "title": "Blade Runner"}
+{"score": "8.2", "year": "2004", "actor": "Hayao Miyazaki (dir.), Chieko Baish\u00f4, Takuya Kimura", "rank": 140, "title": "Hauru no ugoku shiro"}
+{"score": "8.2", "year": "1957", "actor": "Ingmar Bergman (dir.), Max von Sydow, Gunnar Bj\u00f6rnstrand", "rank": 141, "title": "Det sjunde inseglet"}
+{"score": "8.2", "year": "1939", "actor": "Frank Capra (dir.), James Stewart, Jean Arthur", "rank": 142, "title": "Mr. Smith Goes to Washington"}
+{"score": "8.2", "year": "1961", "actor": "Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster", "rank": 143, "title": "Judgment at Nuremberg"}
+{"score": "8.2", "year": "1998", "actor": "Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher", "rank": 144, "title": "Lock, Stock and Two Smoking Barrels"}
+{"score": "8.2", "year": "2010", "actor": "Denis Villeneuve (dir.), Lubna Azabal, M\u00e9lissa D\u00e9sormeaux-Poulin", "rank": 145, "title": "Incendies"}
+{"score": "8.2", "year": "1966", "actor": "Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov", "rank": 146, "title": "Andrei Rublev"}
+{"score": "8.2", "year": "1995", "actor": "Martin Scorsese (dir.), Robert De Niro, Sharon Stone", "rank": 147, "title": "Casino"}
+{"score": "8.2", "year": "2001", "actor": "Ron Howard (dir.), Russell Crowe, Ed Harris", "rank": 148, "title": "A Beautiful Mind"}
+{"score": "8.1", "year": "1980", "actor": "David Lynch (dir.), Anthony Hopkins, John Hurt", "rank": 149, "title": "The Elephant Man"}
+{"score": "8.1", "year": "1957", "actor": "Ingmar Bergman (dir.), Victor Sj\u00f6str\u00f6m, Bibi Andersson", "rank": 150, "title": "Smultronst\u00e4llet"}
+{"score": "8.1", "year": "2005", "actor": "James McTeigue (dir.), Hugo Weaving, Natalie Portman", "rank": 151, "title": "V for Vendetta"}
+{"score": "8.1", "year": "2013", "actor": "Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill", "rank": 152, "title": "The Wolf of Wall Street"}
+{"score": "8.1", "year": "1926", "actor": "Clyde Bruckman (dir.), Buster Keaton, Marion Mack", "rank": 153, "title": "The General"}
+{"score": "8.1", "year": "2011", "actor": "Gavin O'Connor (dir.), Tom Hardy, Nick Nolte", "rank": 154, "title": "Warrior"}
+{"score": "8.1", "year": "1996", "actor": "Yavuz Turgul (dir.), Sener Sen, Ugur Y\u00fccel", "rank": 155, "title": "Eskiya"}
+{"score": "8.1", "year": "2016", "actor": "Mel Gibson (dir.), Andrew Garfield, Sam Worthington", "rank": 156, "title": "Hacksaw Ridge"}
+{"score": "8.1", "year": "1927", "actor": "F.W. Murnau (dir.), George O'Brien, Janet Gaynor", "rank": 157, "title": "Sunrise: A Song of Two Humans"}
+{"score": "8.1", "year": "1996", "actor": "Danny Boyle (dir.), Ewan McGregor, Ewen Bremner", "rank": 158, "title": "Trainspotting"}
+{"score": "8.1", "year": "2008", "actor": "Clint Eastwood (dir.), Clint Eastwood, Bee Vang", "rank": 159, "title": "Gran Torino"}
+{"score": "8.1", "year": "1954", "actor": "Alfred Hitchcock (dir.), Ray Milland, Grace Kelly", "rank": 160, "title": "Dial M for Murder"}
+{"score": "8.1", "year": "1978", "actor": "Michael Cimino (dir.), Robert De Niro, Christopher Walken", "rank": 161, "title": "The Deer Hunter"}
+{"score": "8.1", "year": "1998", "actor": "Joel Coen (dir.), Jeff Bridges, John Goodman", "rank": 162, "title": "The Big Lebowski"}
+{"score": "8.1", "year": "1996", "actor": "Joel Coen (dir.), William H. Macy, Frances McDormand", "rank": 163, "title": "Fargo"}
+{"score": "8.1", "year": "1939", "actor": "Victor Fleming (dir.), Clark Gable, Vivien Leigh", "rank": 164, "title": "Gone with the Wind"}
+{"score": "8.1", "year": "1999", "actor": "M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment", "rank": 165, "title": "The Sixth Sense"}
+{"score": "8.1", "year": "1953", "actor": "Yasujir\u00f4 Ozu (dir.), Chish\u00fb Ry\u00fb, Chieko Higashiyama", "rank": 166, "title": "T\u00f4ky\u00f4 monogatari"}
+{"score": "8.1", "year": "2006", "actor": "Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan", "rank": 167, "title": "Rang De Basanti"}
+{"score": "8.1", "year": "1928", "actor": "Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain", "rank": 168, "title": "La passion de Jeanne d'Arc"}
+{"score": "8.1", "year": "1982", "actor": "John Carpenter (dir.), Kurt Russell, Wilford Brimley", "rank": 169, "title": "The Thing"}
+{"score": "8.1", "year": "2003", "actor": "Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres", "rank": 170, "title": "Finding Nemo"}
+{"score": "8.1", "year": "2008", "actor": "Neeraj Pandey (dir.), Anupam Kher, Naseeruddin Shah", "rank": 171, "title": "A Wednesday"}
+{"score": "8.1", "year": "2007", "actor": "Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem", "rank": 172, "title": "No Country for Old Men"}
+{"score": "8.1", "year": "1967", "actor": "Stuart Rosenberg (dir.), Paul Newman, George Kennedy", "rank": 173, "title": "Cool Hand Luke"}
+{"score": "8.1", "year": "1940", "actor": "Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine", "rank": 174, "title": "Rebecca"}
+{"score": "8.1", "year": "2010", "actor": "Dean DeBlois (dir.), Jay Baruchel, Gerard Butler", "rank": 175, "title": "How to Train Your Dragon"}
+{"score": "8.1", "year": "2003", "actor": "Quentin Tarantino (dir.), Uma Thurman, David Carradine", "rank": 176, "title": "Kill Bill: Vol. 1"}
+{"score": "8.1", "year": "2007", "actor": "Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano", "rank": 177, "title": "There Will Be Blood"}
+{"score": "8.1", "year": "1985", "actor": "Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova", "rank": 178, "title": "Idi i smotri"}
+{"score": "8.1", "year": "2009", "actor": "Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman", "rank": 179, "title": "Mary and Max"}
+{"score": "8.1", "year": "2007", "actor": "Sean Penn (dir.), Emile Hirsch, Vince Vaughn", "rank": 180, "title": "Into the Wild"}
+{"score": "8.1", "year": "2014", "actor": "David Fincher (dir.), Ben Affleck, Rosamund Pike", "rank": 181, "title": "Gone Girl"}
+{"score": "8.1", "year": "1979", "actor": "Terry Jones (dir.), Graham Chapman, John Cleese", "rank": 182, "title": "Life of Brian"}
+{"score": "8.1", "year": "1934", "actor": "Frank Capra (dir.), Clark Gable, Claudette Colbert", "rank": 183, "title": "It Happened One Night"}
+{"score": "8.1", "year": "2010", "actor": "Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer", "rank": 184, "title": "Shutter Island"}
+{"score": "8.1", "year": "1986", "actor": "Oliver Stone (dir.), Charlie Sheen, Tom Berenger", "rank": 185, "title": "Platoon"}
+{"score": "8.1", "year": "2004", "actor": "Terry George (dir.), Don Cheadle, Sophie Okonedo", "rank": 186, "title": "Hotel Rwanda"}
+{"score": "8.1", "year": "2013", "actor": "Ron Howard (dir.), Daniel Br\u00fchl, Chris Hemsworth", "rank": 187, "title": "Rush"}
+{"score": "8.1", "year": "1976", "actor": "Sidney Lumet (dir.), Faye Dunaway, William Holden", "rank": 188, "title": "Network"}
+{"score": "8.1", "year": "2014", "actor": "Dami\u00e1n Szifron (dir.), Dar\u00edo Grandinetti, Mar\u00eda Marull", "rank": 189, "title": "Relatos salvajes"}
+{"score": "8.1", "year": "1953", "actor": "Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel", "rank": 190, "title": "Le salaire de la peur"}
+{"score": "8.1", "year": "1986", "actor": "Rob Reiner (dir.), Wil Wheaton, River Phoenix", "rank": 191, "title": "Stand by Me"}
+{"score": "8.1", "year": "1993", "actor": "Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite", "rank": 192, "title": "In the Name of the Father"}
+{"score": "8.1", "year": "2003", "actor": "Rajkumar Hirani (dir.), Sunil Dutt, Sanjay Dutt", "rank": 193, "title": "Munna Bhai M.B.B.S."}
+{"score": "8.1", "year": "1959", "actor": "Fran\u00e7ois Truffaut (dir.), Jean-Pierre L\u00e9aud, Albert R\u00e9my", "rank": 194, "title": "Les quatre cents coups"}
+{"score": "8.1", "year": "2015", "actor": "Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton", "rank": 195, "title": "Spotlight"}
+{"score": "8.1", "year": "2014", "actor": "Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham", "rank": 196, "title": "The Grand Budapest Hotel"}
+{"score": "8.1", "year": "2015", "actor": "George Miller (dir.), Tom Hardy, Charlize Theron", "rank": 197, "title": "Mad Max: Fury Road"}
+{"score": "8.1", "year": "2013", "actor": "Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams", "rank": 198, "title": "12 Years a Slave"}
+{"score": "8.1", "year": "1959", "actor": "William Wyler (dir.), Charlton Heston, Jack Hawkins", "rank": 199, "title": "Ben-Hur"}
+{"score": "8.1", "year": "1966", "actor": "Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann", "rank": 200, "title": "Persona"}
+{"score": "8.1", "year": "1969", "actor": "George Roy Hill (dir.), Paul Newman, Robert Redford", "rank": 201, "title": "Butch Cassidy and the Sundance Kid"}
+{"score": "8.1", "year": "2004", "actor": "Clint Eastwood (dir.), Hilary Swank, Clint Eastwood", "rank": 202, "title": "Million Dollar Baby"}
+{"score": "8.1", "year": "2000", "actor": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu (dir.), Emilio Echevarr\u00eda, Gael Garc\u00eda Bernal", "rank": 203, "title": "Amores perros"}
+{"score": "8.1", "year": "1941", "actor": "John Huston (dir.), Humphrey Bogart, Mary Astor", "rank": 204, "title": "The Maltese Falcon"}
+{"score": "8.1", "year": "1993", "actor": "Steven Spielberg (dir.), Sam Neill, Laura Dern", "rank": 205, "title": "Jurassic Park"}
+{"score": "8.1", "year": "2003", "actor": "Joon Ho Bong (dir.), Kang-ho Song, Sang-kyung Kim", "rank": 206, "title": "Salinui chueok"}
+{"score": "8.1", "year": "1957", "actor": "Federico Fellini (dir.), Giulietta Masina, Fran\u00e7ois P\u00e9rier", "rank": 207, "title": "Le notti di Cabiria"}
+{"score": "8.1", "year": "1975", "actor": "Ramesh Sippy (dir.), Dharmendra, Sanjeev Kumar", "rank": 208, "title": "Sholay"}
+{"score": "8.1", "year": "1979", "actor": "Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy", "rank": 209, "title": "Stalker"}
+{"score": "8.1", "year": "1987", "actor": "Rob Reiner (dir.), Cary Elwes, Mandy Patinkin", "rank": 210, "title": "The Princess Bride"}
+{"score": "8.1", "year": "2017", "actor": "James Gunn (dir.), Chris Pratt, Zoe Saldana", "rank": 211, "title": "Guardians of the Galaxy Vol. 2"}
+{"score": "8.1", "year": "2009", "actor": "Lasse Hallstr\u00f6m (dir.), Richard Gere, Joan Allen", "rank": 212, "title": "Hachi: A Dog's Tale"}
+{"score": "8.1", "year": "2015", "actor": "J.J. Abrams (dir.), Daisy Ridley, John Boyega", "rank": 213, "title": "Star Wars: Episode VII - The Force Awakens"}
+{"score": "8.1", "year": "1998", "actor": "Peter Weir (dir.), Jim Carrey, Ed Harris", "rank": 214, "title": "The Truman Show"}
+{"score": "8.1", "year": "2000", "actor": "Priyadarshan (dir.), Akshay Kumar, Paresh Rawal", "rank": 215, "title": "Hera Pheri"}
+{"score": "8.1", "year": "1984", "actor": "Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura", "rank": 216, "title": "Kaze no tani no Naushika"}
+{"score": "8.0", "year": "1995", "actor": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy", "rank": 217, "title": "Before Sunrise"}
+{"score": "8.0", "year": "1940", "actor": "John Ford (dir.), Henry Fonda, Jane Darwell", "rank": 218, "title": "The Grapes of Wrath"}
+{"score": "8.0", "year": "1958", "actor": "Orson Welles (dir.), Charlton Heston, Orson Welles", "rank": 219, "title": "Touch of Evil"}
+{"score": "8.0", "year": "1976", "actor": "John G. Avildsen (dir.), Sylvester Stallone, Talia Shire", "rank": 220, "title": "Rocky"}
+{"score": "8.0", "year": "2011", "actor": "David Yates (dir.), Daniel Radcliffe, Emma Watson", "rank": 221, "title": "Harry Potter and the Deathly Hallows: Part 2"}
+{"score": "8.0", "year": "2013", "actor": "Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal", "rank": 222, "title": "Prisoners"}
+{"score": "8.0", "year": "1977", "actor": "Woody Allen (dir.), Woody Allen, Diane Keaton", "rank": 223, "title": "Annie Hall"}
+{"score": "8.0", "year": "1982", "actor": "Richard Attenborough (dir.), Ben Kingsley, John Gielgud", "rank": 224, "title": "Gandhi"}
+{"score": "8.0", "year": "1955", "actor": "Henri-Georges Clouzot (dir.), Simone Signoret, V\u00e9ra Clouzot", "rank": 225, "title": "Les diaboliques"}
+{"score": "8.0", "year": "2001", "actor": "Richard Kelly (dir.), Jake Gyllenhaal, Jena Malone", "rank": 226, "title": "Donnie Darko"}
+{"score": "8.0", "year": "2001", "actor": "Pete Docter (dir.), Billy Crystal, John Goodman", "rank": 227, "title": "Monsters, Inc."}
+{"score": "8.0", "year": "2007", "actor": "Paul Greengrass (dir.), Matt Damon, Edgar Ram\u00edrez", "rank": 228, "title": "The Bourne Ultimatum"}
+{"score": "8.0", "year": "2002", "actor": "Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks", "rank": 229, "title": "Catch Me If You Can"}
+{"score": "8.0", "year": "1984", "actor": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton", "rank": 230, "title": "The Terminator"}
+{"score": "8.0", "year": "1963", "actor": "Federico Fellini (dir.), Marcello Mastroianni, Anouk Aim\u00e9e", "rank": 231, "title": "8\u00bd"}
+{"score": "8.0", "year": "1939", "actor": "Victor Fleming (dir.), Judy Garland, Frank Morgan", "rank": 232, "title": "The Wizard of Oz"}
+{"score": "8.0", "year": "1993", "actor": "Harold Ramis (dir.), Bill Murray, Andie MacDowell", "rank": 233, "title": "Groundhog Day"}
+{"score": "8.0", "year": "1994", "actor": "Rajkumar Santoshi (dir.), Aamir Khan, Salman Khan", "rank": 234, "title": "Andaz Apna Apna"}
+{"score": "8.0", "year": "1975", "actor": "Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson", "rank": 235, "title": "Barry Lyndon"}
+{"score": "8.0", "year": "1995", "actor": "Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Kound\u00e9", "rank": 236, "title": "La haine"}
+{"score": "8.0", "year": "1995", "actor": "Terry Gilliam (dir.), Bruce Willis, Madeleine Stowe", "rank": 237, "title": "Twelve Monkeys"}
+{"score": "8.0", "year": "1975", "actor": "Steven Spielberg (dir.), Roy Scheider, Robert Shaw", "rank": 238, "title": "Jaws"}
+{"score": "8.0", "year": "2002", "actor": "Wai-Keung Lau (dir.), Andy Lau, Tony Chiu-Wai Leung", "rank": 239, "title": "Mou gaan dou"}
+{"score": "8.0", "year": "1946", "actor": "William Wyler (dir.), Fredric March, Dana Andrews", "rank": 240, "title": "The Best Years of Our Lives"}
+{"score": "8.0", "year": "1966", "actor": "Gillo Pontecorvo (dir.), Brahim Hadjadj, Jean Martin", "rank": 241, "title": "La battaglia di Algeri"}
+{"score": "8.0", "year": "1975", "actor": "Sidney Lumet (dir.), Al Pacino, John Cazale", "rank": 242, "title": "Dog Day Afternoon"}
+{"score": "8.0", "year": "2011", "actor": "Tate Taylor (dir.), Emma Stone, Viola Davis", "rank": 243, "title": "The Help"}
+{"score": "8.0", "year": "1962", "actor": "Robert Aldrich (dir.), Bette Davis, Joan Crawford", "rank": 244, "title": "What Ever Happened to Baby Jane?"}
+{"score": "8.0", "year": "2012", "actor": "Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha", "rank": 245, "title": "Gangs of Wasseypur"}
+{"score": "8.0", "year": "1991", "actor": "Gary Trousdale (dir.), Paige O'Hara, Robby Benson", "rank": 246, "title": "Beauty and the Beast"}
+{"score": "8.0", "year": "2016", "actor": "Byron Howard (dir.), Ginnifer Goodwin, Jason Bateman", "rank": 247, "title": "Zootopia"}
+{"score": "8.0", "year": "2000", "actor": "Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung", "rank": 248, "title": "Faa yeung nin wa"}
+{"score": "8.0", "year": "2003", "actor": "Gore Verbinski (dir.), Johnny Depp, Geoffrey Rush", "rank": 249, "title": "Pirates of the Caribbean: The Curse of the Black Pearl"}
+{"score": "8.0", "year": "1982", "actor": "Ingmar Bergman (dir.), Bertil Guve, Pernilla Allwin", "rank": 250, "title": "Fanny och Alexander"}
