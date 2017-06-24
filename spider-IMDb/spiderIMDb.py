@@ -3,14 +3,16 @@ import re
 import json
 from requests.exceptions import RequestException
 
+
 def get_one_page(url):
     try:
         response=requests.get(url)
-        if response.status_code==200:
+        if response.status_code==200: #success
             return response.text
         return None
     except RequestException:
         return None
+    
 def parse_one_page(html):
     pattern=re.compile('<tr>.*?<a href.*?title="(.*?)" >(.*?)</a>.*?<span class.*?">\(([0-9]*)\)</span>.*?<strong title.*?">([0-9]).([0-9])</strong>',re.S)
     items=re.findall(pattern,html)
@@ -24,6 +26,8 @@ def parse_one_page(html):
         'year':item[2],
         'score':str(item[3])+'.'+str(item[4])
         }
+        
+#Save to txt file        
 def write_to_file(content):
     with open('result.txt','a')as f:
         f.write(json.dumps(content)+'\n')
@@ -38,6 +42,7 @@ def main():
         i+=1
         write_to_file(item)
     print i
+    
 if __name__=='__main__':
     main()
 
